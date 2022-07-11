@@ -1,3 +1,6 @@
+**[xqwtxon/ProfanityFilter](https://github.com/xqwtxon/ProfanityFilter) is moving on [ReinfyTeam/ProfanityFilter](https://github.com/ReinfyTeam/ProfanityFilter)**
+
+
 <h1 align=center>ProfanityFilter 🤐</h1>
 <p align=center>
 <a href="https://poggit.pmmp.io/p/ProfanityFilter"><img src="https://github.com/xqwtxon/ProfanityFilter/blob/main/ProfanityFilter.png" align="center" size="200"></a><br>
